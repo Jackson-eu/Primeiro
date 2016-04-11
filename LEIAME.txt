@@ -10,3 +10,4 @@ PASS: ''
 *editavel em /class/Conexao.class
 
 Enviado para o github 11/04/2016 12:56
+colocando linha para poder comparar e criar um pull request
