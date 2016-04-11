@@ -1,0 +1,45 @@
+/*
+Laio Pinheiro
+laiopinheiro01@gmail.com 
+*/
+.componenteDireita{
+	margin-left: 200px;
+}
+.tdGrande{
+	width: 400px !important;
+}
+
+.tdMedio{
+	width: 100px !important;
+}
+
+.tdPequeno{
+	width: 40px !important;
+}
+
+.smallText{
+	font-size: 11px !important;
+}
+
+body{
+	font-family: "LondonMM", Helvetica !important;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+select{
+	width: 200px !important;	
+}
+
+input{
+	font-size: 14px !important;
+}
+
+div{
+	margin:20px;
+}
+
+@font-face{
+	font-family: "LondonMM";
+	src:url(LondonMM.ttf);
+}

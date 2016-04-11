@@ -1,0 +1,10 @@
+BASE DE DADOS ===========
+
+ /DataBase/DB.sql
+
+Usando:
+HOST: localhost
+USER: 'root'
+PASS: ''
+
+*editavel em /class/Conexao.class
